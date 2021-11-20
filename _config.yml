@@ -14,7 +14,7 @@ author: Roverserver Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Kalender: "Kalender/"
+  Kalender: "kalender/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
