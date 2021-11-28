@@ -17,3 +17,7 @@ position: absolute; top:0; left: 0; width: 100%; height: 100%;
 <iframe width="800" height="600" style="border: 0" frameborder="0" src="http://cloud.discord.rover.de/apps/calendar/embed/2KEbDBTedpQmK9Zi"></iframe>
 </div>
 jetzt [abonieren](http://cloud.discord.rover.de/remote.php/dav/public-calendars/2KEbDBTedpQmK9Zi?export)
+### mit https proxy
+<div class="responsiveCal">
+<iframe width="800" height="600" style="border: 0" frameborder="0" src="https://www.google.com/search?q=%http://cloud.discord.rover.de/apps/calendar/embed/2KEbDBTedpQmK9Zi&btnI=Im+Feeling+Lucky"></iframe>
+</div>
