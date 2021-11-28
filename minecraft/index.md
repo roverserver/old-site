@@ -1,4 +1,8 @@
-# Minecraft server
+---
+layout: page
+title: Minecraft server
+comments: false
+---
 Wir betreiben zur zeit auch einen Minecraft-Server auf der aktuellsten Version, für Java und Bedrock.
  
 - ip: `mc.discord.rover.de`
