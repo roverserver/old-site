@@ -19,3 +19,4 @@ position: absolute; top:0; left: 0; width: 100%; height: 100%;
 jetzt [abonieren](https://calendar.google.com/calendar/ical/vda76edj6fkmnkqe7ckni6c1ks%40group.calendar.google.com/public/basic.ics)
 
 <iframe width="800" height="600" style="border: 0" frameborder="0"> src="http://cloud.discord.rover.de/apps/calendar/embed/2KEbDBTedpQmK9Zi"></iframe>
+jetzt [abonieren](http://cloud.discord.rover.de/remote.php/dav/public-calendars/2KEbDBTedpQmK9Zi?export)
