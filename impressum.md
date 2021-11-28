@@ -1,4 +1,8 @@
-# Kontakt / Impressum
+---
+layout: page
+title: Kontakt / Impressum
+comments: false
+---
 
 Die Deutsche Pfadfinderschaft Sankt Georg hat keinen Einfluss auf die Inhalte dieser Website.
 Sie wird privat von einer Gruppe der Roverstufe betrieben.
