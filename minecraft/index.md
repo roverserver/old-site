@@ -4,7 +4,8 @@ title: Minecraft server
 comments: 
 ---
 <center>
-[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789100833-1f06993b60e5fa76d7dc0917?label=Minecraft%20Server&style=for-the-badge)![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m789100833-1f06993b60e5fa76d7dc0917?style=for-the-badge) ‎ ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789089639-175db0f93995dff92e137864?label=Server%20Map&style=for-the-badge)![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m789089639-175db0f93995dff92e137864?style=for-the-badge)](http://mc.discord.rover.de)
+<img alt="Uptime Robot Status" src="https://img.shields.io/uptimerobot/status/m789100833-1f06993b60e5fa76d7dc0917?label=Minecraft%20Server&style=for-the-badge"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m789100833-1f06993b60e5fa76d7dc0917?style=for-the-badge">    
+ <img alt="Uptime Robot Status" src="https://img.shields.io/uptimerobot/status/m789089639-175db0f93995dff92e137864?label=Server%20Map&style=for-the-badge"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m789089639-175db0f93995dff92e137864?style=for-the-badge">
 </center>
 
 Wir betreiben zur zeit auch einen Minecraft-Server auf der aktuellsten Version, für Java und Bedrock.
