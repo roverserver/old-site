@@ -14,3 +14,9 @@ Der server ist **mit whitelist,** um hinzugefügt zu werden müsst ihr aufm [Dis
 Ihr könnt auch von Xbox, Playstation oder Switch aus mitspielen.
 dafür müsst ihr diesem guide [hier](https://github.com/Pugmatt/BedrockConnect) folgen.
 Die Info, ob und wie lange der Server schon läuft findet ihr unter [monitor.discord.rover.de](http://monitor.discord.rover.de/)
+
+
+### Impressionen vom Server
+
+![Lagerplatz](/assets/img/Lagerplatz.png)
+Ein kleiner Zeltlagerplatz
