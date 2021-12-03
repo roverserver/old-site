@@ -7,14 +7,14 @@ position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
  
 .responsiveCal iframe {
  
-position: absolute; top:0; left: 0; width: 100%; height: 100%;
+position: absolute; top:0; left: 0; width: 100%; height: 600px;
  
 }
 </style>
 ## unser Kalender
 
 <div class="responsiveCal">
-<iframe src="https://teamup.com/ksoxt1yh49zs6x8vqb?view=l&title=Roverserver%20Kalender&showLogo=0&showProfileAndInfo=0&showSidepanel=0&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1" height="800px"/>
+<iframe src="https://teamup.com/ksoxt1yh49zs6x8vqb?view=l&title=Roverserver%20Kalender&showLogo=0&showProfileAndInfo=0&showSidepanel=0&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1" />
 </div>
 
 
