@@ -2,7 +2,7 @@
 layout: post
 title: Neues Logo + Aufnäher?
 subtitle: Auf jeder Litfaßkluft ist noch ein bisschen platz
-cover-img: https://media.discordapp.net/attachments/797202559503826984/911677422070558730/Roverserverlogo_alt_neu_vergleich.png
+thumbnail-img: https://media.discordapp.net/attachments/797202559503826984/911677422070558730/Roverserverlogo_alt_neu_vergleich.png
 share-img: https://media.discordapp.net/attachments/797202559503826984/911677422070558730/Roverserverlogo_alt_neu_vergleich.png
 tags: [logo, merch, update]
 ---
