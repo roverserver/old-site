@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minecraft server
-comments: 
+comments: true
 ---
 <center>
 <img alt="Uptime Robot Status" src="https://img.shields.io/uptimerobot/status/m789100833-1f06993b60e5fa76d7dc0917?label=Minecraft%20Server&style=for-the-badge"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m789100833-1f06993b60e5fa76d7dc0917?style=for-the-badge">    
