@@ -1,0 +1,31 @@
+// 0 - paused
+// 1 - not checked yet
+// 2 - up
+// 8 - seems down
+// 9 - down
+
+$S0-color: rgba(128, 128, 128, 0.5);
+$S1-color: rgba(200, 255, 200, 0.5);
+$S2-color: rgba(50, 205, 50, 0.5);
+$S8-color: rgba(255, 50, 50, 0.5);
+$S9-color: rgba(255, 50, 50, 0.5);
+
+.widget-uptimerobot {
+  background: linear-gradient(to bottom,  #3b4248 0%,#2a2f34 40%,#222529 100%);
+
+  .S0 {
+    background: $S0-color;
+  }
+  .S1 {
+    background: $S1-color;
+  }
+  .S2 {
+    background: $S2-color;
+  }
+  .S8 {
+    background: $S8-color;
+  }
+  .S9 {
+    background: $S9-color;
+  }
+}
