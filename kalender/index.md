@@ -26,4 +26,4 @@ jetzt [abonieren](https://calendar.google.com/calendar/ical/vda76edj6fkmnkqe7ckn
 <iframe src="http://cloud.discord.rover.de/apps/calendar/embed/2KEbDBTedpQmK9Zi/listMonth/now"></iframe>
 </div>
 
-<iframe src="http://cloud.discord.rover.de/apps/calendar/embed/2KEbDBTedpQmK9Zi/listMonth/now"  width="100%" height="100%" ></iframe>
+<iframe src="http://cloud.discord.rover.de/apps/calendar/embed/2KEbDBTedpQmK9Zi/listMonth/now"  width="100%" height="800px" ></iframe>
