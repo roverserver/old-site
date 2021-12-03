@@ -25,3 +25,7 @@ Die Info, ob und wie lange der Server schon läuft findet ihr unter [monitor.dis
 
 ![Lagerplatz](/assets/img/Lagerplatz.png)
 Ein kleiner Zeltlagerplatz
+
+![Hühnergehege](https://media.discordapp.net/attachments/883300494032920576/889968115893559377/unknown.png)
+Artgerechte Tierhaltung
+
