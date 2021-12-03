@@ -200,7 +200,7 @@ giscus:
   mapping: pathname
   reactions-enabled: 1
   emit-metadata: 0
-  theme: dark
+  theme: dark_dimmed
 
 # --- Misc --- #
 
