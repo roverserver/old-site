@@ -1,6 +1,6 @@
 function myFunction() {
   /* Get the text field */
-  var copyText = document.getElementById("myInput");
+  var copyText = "https://calendar.teamup.com/kb/subscribe-to-teamup-icalendar-feeds/";
 
   /* Select the text field */
   copyText.select();
@@ -10,5 +10,5 @@ function myFunction() {
   navigator.clipboard.writeText(copyText.value);
 
   /* Alert the copied text */
-  alert("Copied the text: " + copyText.value);
+  alert("ical link in Zwischenablage Kopiert");
 }
