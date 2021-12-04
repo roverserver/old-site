@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minecraft server
+title: Minecraft Server
 comments: true
 ---
 <center>
