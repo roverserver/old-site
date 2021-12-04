@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Unser Kalender
-css: kalender2.css
+css: /assets/css/kalender.css
+js: /assets/js/kalender.js
 ---
 
 <div id="content-desktop">
