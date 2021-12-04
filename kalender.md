@@ -14,4 +14,9 @@ js: /assets/js/kalender.js
 
 
 
-Zum eigenen Kalender [hinzufügen](https://ics.teamup.com/feed/ksoxt1yh49zs6x8vqb/0.ics)
+Zum eigenen Kalender [hinzufügen](https://calendar.teamup.com/kb/subscribe-to-teamup-icalendar-feeds/) 
+iCal Link:
+```
+https://ics.teamup.com/feed/ksoxt1yh49zs6x8vqb/0.ics
+```
+<button onclick="myFunction()">iCal Link Kopieren</button>
