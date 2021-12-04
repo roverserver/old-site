@@ -3,6 +3,7 @@ layout: page
 title: Unser Kalender
 css: /assets/css/kalender.css
 js: /assets/js/kalender.js
+share-description: Ein Kalender mit allen für den Roverserver relevanten Terminen und iCalendar Unterstützung
 ---
 
 <div id="content-desktop">
