@@ -13,6 +13,7 @@ Wie ihr seht ist das neue Logo, genau so wie das neue Discordlogo, etwas aufger�
 ![Neues Logo](https://media.discordapp.net/attachments/797202559503826984/911677422070558730/Roverserverlogo_alt_neu_vergleich.png?width=673&height=673){: .mx-auto.d-block :}
 
 Doch es handelt sich bei dem neuen Logo nicht nur um ein Logo, sondern gleichzeitig auch um das Maskottchen des Roverservers mit dem Namen "ROSE".
+
 ![RoSe](https://media.discordapp.net/attachments/797202559503826984/911677634084225024/Hello_my_name_is_ROSE.png){: .mx-auto.d-block :}
 
 Das Roverserver-Team plant, ROSE als Aufnäher herstellen zu lassen. Habt ihr Interesse? Beantwortet einfach folgende Umfrage, damit wir wissen, wie viel Interesse an Aufnähern besteht: [discord.rover.de/aufnaeher-umfrage](https://discord.rover.de/aufnaeher-umfrage/)
