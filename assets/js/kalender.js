@@ -10,5 +10,5 @@ function myFunction() {
   navigator.clipboard.writeText(copyText.value);
 
   /* Alert the copied text */
-  alert("ical link in Zwischenablage Kopiert");
+  alert("ical Link in Zwischenablage Kopiert");
 }
