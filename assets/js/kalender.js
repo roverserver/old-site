@@ -1,14 +1,7 @@
-function myFunction() {
-  /* Get the text field */
-  var copyText = "https://calendar.teamup.com/kb/subscribe-to-teamup-icalendar-feeds/";
-
-  /* Select the text field */
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); /* For mobile devices */
-
-   /* Copy the text inside the text field */
-  navigator.clipboard.writeText(copyText.value);
+function copyiCal() {
+   /* Copy the textto clipboard */
+  navigator.clipboard.writeText("https://ics.teamup.com/feed/ksoxt1yh49zs6x8vqb/0.ics");
 
   /* Alert the copied text */
-  alert("ical Link in Zwischenablage Kopiert");
+  alert("iCal Link in Zwischenablage kopiert");
 }
