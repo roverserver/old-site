@@ -33,7 +33,7 @@
     {%- endif -%}
   {% endcapture %}
 
-  <title>{{ title }}</title>
+  <title>Roverserver - {{ title }}</title>
 
   {% if site.author %}
   <meta name="author" content="{{ site.author }}">
@@ -93,7 +93,7 @@
   {% endif %}
 
   {% if site.title %}
-  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:site_name" content="Roverserver - {{ site.title }}">
   {% endif %}
 
   {%- capture img -%}
