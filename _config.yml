@@ -138,7 +138,7 @@ mobile-theme-col: "#CC1F2F"
 gtag: "G-C6Y00WSGNC"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "3088442182"
+#google_analytics: ""
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
