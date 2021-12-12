@@ -249,6 +249,9 @@ exclude:
   - screenshot.png
   - docs/
 
+include:
+  - _pages
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
