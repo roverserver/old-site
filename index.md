@@ -7,4 +7,4 @@ share-description: Lust andere Rover (und sich der Stufe verbunden fühlende Men
 [![Discord](https://img.shields.io/discord/712004108344885341?color=cc1f2f&label=Discord&logo=Discord&logoColor=cc1f2f&style=for-the-badge)](https://rover.de/discord) 
 
 
-### ↣ **[hier geht's zum Discord Server](https://rover.de/discord)** ↢
+### ↣ **[hier geht's zum Discord Server](invite/)** ↢
