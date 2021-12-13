@@ -3,14 +3,14 @@ layout: home
 title: Der Roverserver
 subtitle: Lust andere Rover (und sich der Stufe verbunden fühlende Menschen) kennenzulernen?
 share-description: Lust andere Rover (und sich der Stufe verbunden fühlende Menschen) kennenzulernen? ↣ [rover.de/discord](https://rover.de/discord)
-cover-img: 'assets/img/Westernohe-logo (1).png'
+cover-img: assets/img/Westernohe-logo-alt.png
 ---
 [![Discord](https://img.shields.io/discord/712004108344885341?color=cc1f2f&label=Discord&logo=Discord&logoColor=cc1f2f&style=for-the-badge)](invite/) 
 
 
 ### ↣ **[hier geht's zum Discord Server](invite/)** ↢
 
-![Westernohe Stilisiert]('assets/img/Westernohe-logo (1).png')
+![Westernohe Stilisiert](assets/img/Westernohe-logo-alt.png)
 
 Draußen zusammen etwas unternehmen, das geht, aufgrund der anhaltenden Pandemie, zurzeit leider nur eingeschränkt. Daher muss nun vieles digital und online geschehen. Aber gerade darin birgt sich auch die Chance Menschen kennenzulernen, welche man sonst wahrscheinlich nie getroffen hätte, neue Freunde zu finden und dabei eine Menge Spaß zu haben. 
 
