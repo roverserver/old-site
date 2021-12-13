@@ -14,7 +14,7 @@ Wir betreiben zur zeit auch einen Minecraft-Server auf der aktuellsten Version, 
 - weltkarte: [mc.discord.rover.de](http://mc.discord.rover.de)
 - seed: `-8278226083665996900`
 
-Der server ist **mit whitelist,** um hinzugefügt zu werden müsst ihr aufm [Discord Server](rover.de/discord) Emhl euren Ingame-Namen schicken (mit hinweis ob java oder Bedrock)
+Der server ist **mit whitelist,** um hinzugefügt zu werden müsst ihr aufm [Discord Server](invite/) Emhl euren Ingame-Namen schicken (mit hinweis ob java oder Bedrock)
 
 Ihr könnt auch von Xbox, Playstation oder Switch aus mitspielen.
 dafür müsst ihr diesem guide [hier](https://github.com/Pugmatt/BedrockConnect) folgen.
