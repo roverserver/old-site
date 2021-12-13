@@ -5,7 +5,7 @@ comments: false
 share-description: Impressum und Datenschutzerklärung für discord.rover.de
 ---
 
-Die Deutsche Pfadfinderschaft Sankt Georg hat keinen Einfluss auf die Inhalte dieser Website.
+Das Bundesamt der Deutschen Pfadfinderschaft Sankt Georg und der Bundes-Arbeitskreis Roverstufe haben keinen Einfluss auf die Inhalte dieser Website.
 Sie wird privat von einer Gruppe der Roverstufe betrieben.
 Bei Fragen zu den Inhalten auf dieser Seite wenden sie sich bitte an: team@discord.rover.de
 
