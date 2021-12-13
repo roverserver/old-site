@@ -24,5 +24,5 @@ Durch die Nutzung unserer Website erklären Sie sich mit der Erhebung, Verarbeit
 Diese Webseite wird gehostet auf Servern der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. GitHub kann beim Aufruf dieser Webseiten technische Informationen inklusive ihrer IP Adresse aufzeichnen. Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von GitHub unter: <https://help.github.com/articles/github-privacy-policy>
 
 ### Kalender
-Der Kalender auf <discord.rover.de/kalender> wird von Teamup Solutions AG, Kreuzstrasse 42, 8008 Zurich, Switzerland betrieben. Teamup kann beim Aufruf der Kalender Seite technische Informationen inklusive ihrer IP Adresse aufzeichnen. Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Teamup <https://www.teamup.com/privacy-policy/>
+Der [Kalender](kalender/) wird von Teamup Solutions AG, Kreuzstrasse 42, 8008 Zurich, Switzerland betrieben. Teamup kann beim Aufruf der Kalender Seite technische Informationen inklusive ihrer IP Adresse aufzeichnen. Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Teamup <https://www.teamup.com/privacy-policy/>
 
