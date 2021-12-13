@@ -2,6 +2,7 @@
 layout: page
 title: Impressum / Datenschutz
 comments: false
+share-description: Impressum und Datenschutzerklärung für discord.rover.de
 ---
 
 Die Deutsche Pfadfinderschaft Sankt Georg hat keinen Einfluss auf die Inhalte dieser Website.
