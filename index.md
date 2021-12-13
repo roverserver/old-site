@@ -10,6 +10,8 @@ cover-img: 'assets/img/Westernohe-logo (1).png'
 
 ### ↣ **[hier geht's zum Discord Server](invite/)** ↢
 
+![Westernohe Stilisiert]('assets/img/Westernohe-logo (1).png')
+
 Draußen zusammen etwas unternehmen, das geht, aufgrund der anhaltenden Pandemie, zurzeit leider nur eingeschränkt. Daher muss nun vieles digital und online geschehen. Aber gerade darin birgt sich auch die Chance Menschen kennenzulernen, welche man sonst wahrscheinlich nie getroffen hätte, neue Freunde zu finden und dabei eine Menge Spaß zu haben. 
 
 Ein Beispiel hierfür ist der sich auf der kostenlosen Sprach- und Chatplattform Discord befindliche Roverserver. Dieser wird geleitet von einem Team bestehend aus Rover\*innen der DPSG und hat aktuell etwa 800 Mitglieder, hauptsächlich Rover\*innen und Leiter\*innen der DPSG, aber auch andere Menschen sind herzlich willkommen. 
