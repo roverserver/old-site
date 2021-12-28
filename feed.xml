@@ -1,29 +1,37 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    {% if site.title %}
-    <title>{{ site.title | xml_escape }}</title>
-    {% endif %}
-    {% if site.rss-description %}
-    <description>{{ site.rss-description | xml_escape }}</description>
-    {% endif %}
-    <link>{{ '' | absolute_url }}</link>
-    <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% assign excerpt_length = site.excerpt_length | default: 50 %}
-    {% for post in site.posts limit:20 %}
+    
+    <title>Roverserver</title>
+    
+    
+    <description>Lust andere Rover (und sich der Stufe verbunden fühlende Menschen) kennenzulernen?</description>
+    
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
       <item>
-        <title>{{ post.title | strip_html | xml_escape }}</title>
+        <title>Neues Logo + Aufnäher?</title>
         <description>
-          {% if post.subtitle %}{{ post.subtitle | strip_html | xml_escape }} - {% endif %}
-          {{ post.content | strip_html | xml_escape | truncatewords: excerpt_length }}
+          Auf jeder Litfaßkluft ist noch ein bisschen platz - 
+          letzte Woche Samstag haben wir unser überarbeitetes Logo offiziell gelauncht. 🦈 Wie ihr seht ist das neue Logo, genau so wie das neue Discordlogo, etwas aufgeräumter und in sich stimmiger. Außerdem haben wir die Hintergrundfarbe des Serveravatars etwas angepasst um lebhafter zu wirken. Doch es handelt sich bei dem neuen...
         </description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <pubDate>Sat, 20 Nov 2021 00:00:00 +0100</pubDate>
+        <link>/2021-11-20-neues-logo/</link>
+        <guid isPermaLink="true">/2021-11-20-neues-logo/</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Pfingsten in Westernohe 2021</title>
+        <description>
+          Pfingsten to Go - 
+          Pfingsten in Westernohe fällt nicht aus, es kommt zu dir! Wir schicken dir Pfingsten in the Box nach Hause. Spannung und Essen: Krimmidinner Roverversion Spiel: Nachbarschaft aufmischen und mitbestimmen Challenge: Andere Roverrunden kennen lernen und herausfordern Alles was du dafür tun musst: Dich und deinen Stamm für das Stammespaket bis...
+        </description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0200</pubDate>
+        <link>/2021-04-09-PIW/</link>
+        <guid isPermaLink="true">/2021-04-09-PIW/</guid>
+      </item>
+    
   </channel>
 </rss>
