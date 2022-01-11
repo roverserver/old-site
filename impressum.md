@@ -7,8 +7,7 @@ share-description: Impressum und Datenschutzerklärung für discord.rover.de
 
 Das Bundesamt der Deutschen Pfadfinderschaft Sankt Georg und der Bundes-Arbeitskreis Roverstufe haben keinen Einfluss auf die Inhalte dieser Website.
 Sie wird privat von einer Gruppe der Roverstufe betrieben.
-Bei Fragen zu den Inhalten auf dieser Seite wenden sie sich bitte an: team@discord.rover.de
-
+Bei Fragen zu den Inhalten auf dieser Seite wenden sie sich bitte an: <a href="javascript:location='mailto:\u0074\u0065\u0061\u006d\u0040\u0064\u0069\u0073\u0063\u006f\u0072\u0064\u002e\u0072\u006f\u0076\u0065\u0072\u002e\u0064\u0065';void 0"><script type="text/javascript">document.write('\u0074\u0065\u0061\u006d\u0040\u0064\u0069\u0073\u0063\u006f\u0072\u0064\u002e\u0072\u006f\u0076\u0065\u0072\u002e\u0064\u0065')</script></a>
 Für den Inhalt verantwortliche Person:
 ```
 Emil Steiner
