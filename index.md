@@ -4,10 +4,14 @@ title: Der Roverserver
 subtitle: Lust andere Rover (und sich der Stufe verbunden fühlende Menschen) kennenzulernen?
 share-description: Lust andere Rover (und sich der Stufe verbunden fühlende Menschen) kennenzulernen? ↣ [rover.de/discord](https://rover.de/discord)
 ---
-[![Discord](https://img.shields.io/discord/712004108344885341?color=cc1f2f&label=Discord&logo=Discord&logoColor=cc1f2f&style=for-the-badge)](invite/) 
-
-
-### ↣ **[hier geht's zum Discord Server](invite/)** ↢
+<div align="center">
+<a href="invite/"> 
+  <img src="https://img.shields.io/discord/712004108344885341?color=cc1f2f&label=Discord&logo=Discord&logoColor=cc1f2f&style=for-the-badge" width="30%"/> 
+</a>
+  <br>
+ 
+  <h3>↣ <a href="invite/"> hier geht's zum Discord Server </a>↢ </h3>
+</div>
 
 Draußen zusammen etwas unternehmen, das geht, aufgrund der anhaltenden Pandemie, zurzeit leider nur eingeschränkt. Daher muss nun vieles digital und online geschehen. Aber gerade darin birgt sich auch die Chance Menschen kennenzulernen, welche man sonst wahrscheinlich nie getroffen hätte, neue Freunde zu finden und dabei eine Menge Spaß zu haben. 
 
