@@ -14,6 +14,7 @@ share-description: Lust andere Rover (und sich der Stufe verbunden fühlende Men
 </div>
 <br>
 ## @everyone wo Grad aufm rovervoco ist
+
 ### Heute (17.4.) um 16 Uhr findet ein Roverservertreffen auf dem rovervoco statt, Treffpunkt dazu ist vor der Hauptbühne, bitte gebt die Info gerne weiter
 <br><br><br>
 Draußen zusammen etwas unternehmen, das geht, aufgrund der anhaltenden Pandemie, zurzeit leider nur eingeschränkt. Daher muss nun vieles digital und online geschehen. Aber gerade darin birgt sich auch die Chance Menschen kennenzulernen, welche man sonst wahrscheinlich nie getroffen hätte, neue Freunde zu finden und dabei eine Menge Spaß zu haben. 
