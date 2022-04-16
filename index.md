@@ -12,7 +12,10 @@ share-description: Lust andere Rover (und sich der Stufe verbunden fühlende Men
  
   <h3>↣ <a href="invite/"> hier geht's zum Discord Server </a>↢ </h3>
 </div>
-
+<br>
+## @everyone wo Grad aufm rovervoco ist
+### Heute (17.4.) um 16 Uhr findet ein Roverservertreffen auf dem rovervoco statt, Treffpunkt dazu ist vor der Hauptbühne, bitte gebt die Info gerne weiter
+<br><br><br>
 Draußen zusammen etwas unternehmen, das geht, aufgrund der anhaltenden Pandemie, zurzeit leider nur eingeschränkt. Daher muss nun vieles digital und online geschehen. Aber gerade darin birgt sich auch die Chance Menschen kennenzulernen, welche man sonst wahrscheinlich nie getroffen hätte, neue Freunde zu finden und dabei eine Menge Spaß zu haben. 
 
 Ein Beispiel hierfür ist der sich auf der kostenlosen Sprach- und Chatplattform Discord befindliche Roverserver. Dieser wird geleitet von einem Team bestehend aus Rover\*innen der DPSG und hat aktuell etwa 800 Mitglieder, hauptsächlich Rover\*innen und Leiter\*innen der DPSG, aber auch andere Menschen sind herzlich willkommen. 
